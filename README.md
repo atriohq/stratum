@@ -52,12 +52,6 @@ Simply open the `index.html` file in your browser to preview the template.
 
 ---
 
-## 🖼️ Demo
-
-[Live Preview](#) *(Update with the live demo link)*
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use and modify this template for personal or commercial projects.
@@ -74,7 +68,7 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 If you encounter any issues or have questions, feel free to reach out:
 - **Email**: [help@atrio.dev](mailto:help@atrio.dev)
-- **GitHub Issues**: [Open an Issue]([https://github.com/yourusername/stratum-starter-template/issues](https://github.com/atriohq/stratum/issues))
+- **GitHub Issues**: [Open an Issue](https://github.com/atriohq/stratum/issues)
 
 ---
 
