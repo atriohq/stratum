@@ -2,6 +2,8 @@
 
 **Stratum** is a robust and flexible starting point for modern web projects. It features a clean design, responsive navigation, and smooth animations, making it an excellent foundation for personal or professional projects.
 
+<img src="./screenshot.png" alt="Screenshot of Stratum Starter Template" width="600">
+
 ---
 
 ## 🚀 Features
